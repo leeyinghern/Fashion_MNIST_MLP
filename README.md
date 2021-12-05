@@ -4,7 +4,7 @@
 <h3>Built with keras</h3> 
 
 Model Architecture:
-![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/blob/master/Images/model_archi?raw=true)
+![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/master/Images/model_archi?raw=true)
 
 Model Performance
 ![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/blob/master/Images/performance?raw=true)
