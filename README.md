@@ -3,11 +3,13 @@
 
 <h3>Built with keras</h3> 
 
-<h4>Model Architecture: <h4>
+Model Architecture:
 ![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/blob/master/Images/model_archi.PNG?raw=true)
 
 Model Performance:
-  <h4> Validation and Test set performance </h4>
+Validation and Test set performance
 ![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/blob/master/Images/performance.PNG?raw=true)
-  <h4> Test Set performance </h4>
+
+
+Test Set performance 
 ![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/blob/master/Images/test_set_perf.PNG?raw=true)
