@@ -8,6 +8,6 @@
 
 Model Performance:
   <h4> Validation and Test set performance </h4>
-![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/blob/master/Images/performance.PNG?raw=true) <br>
+![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/blob/master/Images/performance.PNG?raw=true)
   <h4> Test Set performance </h4>
 ![alt text](https://github.com/leeyinghern/Fashion_MNIST_MLP/blob/master/Images/test_set_perf.PNG?raw=true)
